@@ -1,2 +1,2 @@
 # ArcGIS
-This repository contains projects created using ArcGIS Desktop, Pro, or Online Web Maps/ Applications. 
+This is a government project that teamed up with San Diego State University to help cities become more sustainable and livable. I helped out with this project during my undergraduate studies at SDSU and helped contribute towards this community project. The main goal was to collect data points and lines around the city on where missing sidewalks, missing pedestrian ramps, and non ADA ramps were located. After completing the data collection, I used ArcGIS Desktop to digitize my points and create an esthetically pleasing map. A colleague and I presented this map to Lemon Grove workers so it can be used for future use.
